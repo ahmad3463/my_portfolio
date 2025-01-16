@@ -2,7 +2,10 @@
     padding: 0;
     margin: 0;
 }
-
+.nav-link{
+    font-weight: 700 !important;
+    transition: 0.3s !important;
+}
 .nav-link:hover{
     color: rgb(236, 156, 8) !important;
 }
@@ -34,4 +37,8 @@ b{
 .container button a{
     text-decoration: none;
     color: #fff;
+}
+
+.container button:hover{
+    background-color:  rgb(190, 126, 6);
 }
