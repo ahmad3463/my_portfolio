@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav-link:hover{
+    color: rgb(236, 156, 8) !important;
+}
+
+.text-center img {
+    width: 25%;
+}
+b{
+    color: rgb(236, 156, 8) !important;
+}
+.picture-icon img {
+    padding: 10px 3px;
+    width: 3%;
+}
+.main_pic img{
+    width: 20%;
+    height: 20%;
+}
+
+.container button{
+    background-color:  rgb(236, 156, 8) ;
+    transition: 0.2s ;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.container button a{
+    text-decoration: none;
+    color: #fff;
+}
